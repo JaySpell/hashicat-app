@@ -1,5 +1,5 @@
 # Copyright (c) HashiCorp, Inc.
-
+# Minor update
 terraform {
   required_providers {
     aws = {
